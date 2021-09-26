@@ -1,4 +1,6 @@
 # Sample Snack app
+Link de visualização do projeto
+https://snack.expo.dev/@vtns/meu-app-saulo
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
